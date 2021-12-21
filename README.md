@@ -1,18 +1,12 @@
 <h1 align = "center">
-  RIntro2021 is back for the Cohort - 2
+  RIntro2022 is Back
     <br>
-  06 - 08 December, 2021
+  06 - 08 January, 2022
   </h1>
 
 <h1 align="center">
   <br>
-  <a href="https://amchss.github.io/RIntro2021/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" width="1200" ></a>
-  <br>
-    Hurry!
-  <br>
-<p><del>Registation Closes on 15th November 2021</del></p>
-  <br>
-  Registration Extended until 25th November 2021
+  <a href="https://amchss.github.io/RIntro2022/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" width="1200" ></a>
   <br>
 </h1>
 
@@ -33,18 +27,6 @@
 <h3>
 <p>Register here: <a href="https://forms.gle/EyW1oAKuqPrxM3QKA" target="_blank">   https://forms.gle/EyW1oAKuqPrxM3QKA  </a> </p> 
   <br>
-<br> 
-  Hurry!
-<p><del>Registation Closes on 15th November 2021</del></p>
-  <br>
-  Registration Extended until 25th November 2021
-  <br>
- <br>
-  <br>
-  <br>
- Registration Fee: Rs. 3,000/- (for students), Rs. 5,000/- (for others)
-
-<br> 
 <br>
   <br>
   
@@ -55,15 +37,11 @@ Mode: In-person (Offline/Physical)
   Important Dates:
   <br>
   <br>
-  1. Opening of Registration: 04 Nov, 2021   
+  1. Opening of Registration: 21 Dec, 2021   
   <br>
-  2. Closing of Registration: 15 Nov, 2021  
+  2. Closing of Registration: 25 Dec, 2021  
   <br>
-  3. Intimation of shortlisted Candidates: 16 Nov, 2021  
-  <br>
-  4. Payment Deadline: 20 Nov, 2021  
-  <br>
-  5. Workshop Dates: 06-08 Dec, 2021
+  3. Workshop Dates: 06-08 Jan, 2021
 <br>
  <br> 
   <br>
@@ -136,11 +114,11 @@ A tentative schedule of the workshop is provided below:
 
 |         Date       |       Timings    |     Topic                                              |
 |:------------------:|:----------------:|--------------------------------------------------------|
-|     06 Dec 2021    |     0900-1300    |     Introduction and Concepts                          | 
+|     06 Jan 2022    |     0900-1300    |     Introduction and Concepts                          | 
 |                    |     1400-1700    |     Project Management                                 |  
-|     07 Dec 2021    |     0900-1300    |     Exploratory Data Analysis and Data Visualization   |   
+|     07 Jan 2022    |     0900-1300    |     Exploratory Data Analysis and Data Visualization   |   
 |                    |     1400-1700    |     Statistical analysis                               |   
-|     08 Dec 2021    |     0900-1300    |     Communicating Results                              |   
+|     08 Jan 2022    |     0900-1300    |     Communicating Results                              |   
 |                    |     1400-1700    |     Advanced concepts / Feedback / Valedictory         | 
 
 
