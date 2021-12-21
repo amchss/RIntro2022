@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://amchss.github.io/RIntro2022/"><img src="https://i.ibb.co/KKX9prt/image-2021-11-01-111627.png" width="1200" ></a>
+  <a href="https://amchss.github.io/RIntro2022/"><img src="https://i.ibb.co/Lptct8k/rintro2022-cohort3.jpg" width="1200" ></a>
   <br>
 </h1>
 
@@ -41,12 +41,12 @@ Mode: In-person (Offline/Physical)
   <br>
   2. Closing of Registration: 25 Dec, 2021  
   <br>
-  3. Workshop Dates: 06-08 Jan, 2021
+  3. Workshop Dates: 06-08 Jan, 2022
 <br>
  <br> 
   <br>
 
-<a href="https://github.com/amchss/RIntro2021/blob/main/RIntro2021_Cohort2_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
+<a href="https://github.com/amchss/RIntro2021/blob/main/RIntro2022_Cohort3_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
   
 
 </h3>
