@@ -1,5 +1,5 @@
 <h1 align = "center">
-  RIntro2022 is Back
+  RIntro2022
     <br>
   06 - 08 January, 2022
   </h1>
@@ -39,7 +39,7 @@ Mode: In-person (Offline/Physical)
   <br>
   1. Opening of Registration: 21 Dec, 2021   
   <br>
-  2. Closing of Registration: 25 Dec, 2021  
+  2. Closing of Registration: 31 Dec, 2021  
   <br>
   3. Workshop Dates: 06-08 Jan, 2022
 <br>
