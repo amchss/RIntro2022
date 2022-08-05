@@ -46,7 +46,7 @@ Mode: In-person (Offline/Physical)
  <br> 
   <br>
 
-<a href="https://github.com/amchss/RIntro2022/blob/main/RIntro2022_Cohort4_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
+<a href="https://github.com/amchss/RIntro2022/blob/main/RIntro2022_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
   
 
 </h3>
