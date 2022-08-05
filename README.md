@@ -1,7 +1,7 @@
 <h1 align = "center">
   RIntro2022
     <br>
-  06 - 08 January, 2022
+  15 - 18 September, 2022
   </h1>
 
 <h1 align="center">
@@ -25,7 +25,7 @@
 
 
 <h3>
-<p>Register here: <a href="https://forms.gle/EyW1oAKuqPrxM3QKA" target="_blank">   https://forms.gle/EyW1oAKuqPrxM3QKA  </a> </p> 
+<p>Register here: <a href="https://forms.gle/sXzzy8XbDHbTa5L27" target="_blank">   https://forms.gle/sXzzy8XbDHbTa5L27  </a> </p> 
   <br>
 <br>
   <br>
@@ -37,16 +37,16 @@ Mode: In-person (Offline/Physical)
   Important Dates:
   <br>
   <br>
-  1. Opening of Registration: 21 Dec, 2021   
+  1. Opening of Registration: 05 Aug, 2022   
   <br>
-  2. Closing of Registration: 31 Dec, 2021  
+  2. Closing of Registration: 20 Aug, 2022  
   <br>
-  3. Workshop Dates: 06-08 Jan, 2022
+  3. Workshop Dates: 15-18 Sep, 2022
 <br>
  <br> 
   <br>
 
-<a href="https://github.com/amchss/RIntro2022/blob/main/RIntro2022_Cohort3_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
+<a href="https://github.com/amchss/RIntro2022/blob/main/RIntro2022_Cohort4_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
   
 
 </h3>
@@ -114,12 +114,14 @@ A tentative schedule of the workshop is provided below:
 
 |         Date       |       Timings    |     Topic                                              |
 |:------------------:|:----------------:|--------------------------------------------------------|
-|     06 Jan 2022    |     0900-1300    |     Introduction and Concepts                          | 
+|     15 Sep 2022    |     0900-1300    |     Introduction and Concepts                          | 
 |                    |     1400-1700    |     Project Management                                 |  
-|     07 Jan 2022    |     0900-1300    |     Exploratory Data Analysis and Data Visualization   |   
-|                    |     1400-1700    |     Statistical analysis                               |   
-|     08 Jan 2022    |     0900-1300    |     Communicating Results                              |   
-|                    |     1400-1700    |     Advanced concepts / Feedback / Valedictory         | 
+|     16 Sep 2022    |     0900-1300    |     Data Visualization                                 |   
+|                    |     1400-1700    |     Exploratory Data Analysis and Database Management  |  
+|     17 Sep 2022    |     0900-1300    |     Stastical Analysis                                 |   
+|                    |     1400-1700    |     Communicating Results                              | 
+|     18 Sep 2022    |     0900-1300    |     Advanced concepts                                  |   
+|                    |     1400-1700    |     Feedback / Valedictory                             | 
 
 
 ## Contact
