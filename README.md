@@ -1,5 +1,5 @@
 <h1 align = "center">
-  RIntro2022
+  <tt>RIntro2022</tt>: Cohort-4
     <br>
   15 - 18 September, 2022
   </h1>
