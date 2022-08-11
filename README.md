@@ -25,9 +25,8 @@
 
 ## Details of the Workshop
 
-
 <h3>
-<p>Register here: <a href="https://forms.gle/sXzzy8XbDHbTa5L27" target="_blank">   https://forms.gle/sXzzy8XbDHbTa5L27  </a> </p> 
+<p>Register here: <a href="https://forms.gle/KQHwQsUtx2bTcUYd6" target="_blank">   https://forms.gle/KQHwQsUtx2bTcUYd6  </a> </p> 
   <br>
 <br>
   <br>
