@@ -40,7 +40,7 @@ Mode: In-person (Offline/Physical)
   <br>
   1. Opening of Registration: 05 Aug, 2022   
   <br>
-  2. Closing of Registration: 20 Aug, 2022  
+  2. Closing of Registration: 25 Aug, 2022  
   <br>
   3. Workshop Dates: 15-18 Sep, 2022
 <br>
