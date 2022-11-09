@@ -1,12 +1,12 @@
 <h1 align = "center">
-  <tt>RIntro2022</tt>: Cohort-4
+  Data Analysis and Spatial Epidemiology using R
     <br>
-  15 - 18 September, 2022
+  06 - 10 December, 2022
   </h1>
 
 <h1 align="center">
   <br>
-  <a href="https://amchss.github.io/RIntro2022/"><img src="https://i.ibb.co/Lptct8k/rintro2022-cohort3.jpg" width="1200" ></a>
+  <a href="https://amchss.github.io/RIntro2022/"><img src="https://i.ibb.co/tPZcsSt/r-spatial-epi-banner.jpg" width="1200" ></a>
   <br>
 </h1>
 
@@ -22,6 +22,12 @@
 <h4 align="center">A workshop for Health Professional organized by  <a href="https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/" target="_blank">AMCHSS</a>, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum.</h4>
 <h5 align="center"> An institution of national importance (INI) under the Department of Science & Technology (DST), Govt of India, established under the Act. 52 of the Indian Parliament (1980). </h5>
 
+## Registration Fees
+<h1 align="center">
+  <br>
+  <a href="https://amchss.github.io/RIntro2022/"><img src="https://i.ibb.co/DGPcmBQ/registration-fee-structure.jpg" width="1200" ></a>
+  <br>
+</h1>
 
 ## Details of the Workshop
 
@@ -31,6 +37,7 @@
 <br>
   <br>
   
+  
 Mode: In-person (Offline/Physical)
   <br>
   <br>
@@ -38,16 +45,16 @@ Mode: In-person (Offline/Physical)
   Important Dates:
   <br>
   <br>
-  1. Opening of Registration: 05 Aug, 2022   
+  1. Opening of Registration: 09 Nov, 2022   
   <br>
-  2. Closing of Registration: 25 Aug, 2022  
+  2. Closing of Registration: 20 Nov, 2022  
   <br>
-  3. Workshop Dates: 15-18 Sep, 2022
+  3. Workshop Dates: 06-10 Dec, 2022
 <br>
  <br> 
   <br>
 
-<a href="https://github.com/amchss/RIntro2022/blob/main/RIntro2022_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
+<a href="https://github.com/amchss/RIntro2022/blob/main/RIntro2022_SpatialEpi_Flyer.pdf" target="_blank">   Workshop Flyer  </a>
   
 
 </h3>
@@ -109,20 +116,30 @@ Some of our recent work on the data science approach to health research are:
 
 - Communicating Research with RMarkdown
 
+- Introduction to Spatial Epidemiology
+
+- Point Pattern Analysis
+
+- Areal Data Analysis
+
+- Geo-Statistical Methods 
+
 ## Schedule
 
 A tentative schedule of the workshop is provided below:
 
 |         Date       |       Timings    |     Topic                                              |
 |:------------------:|:----------------:|--------------------------------------------------------|
-|     15 Sep 2022    |     0900-1300    |     Introduction and Concepts                          | 
-|                    |     1400-1700    |     Project Management                                 |  
-|     16 Sep 2022    |     0900-1300    |     Data Visualization                                 |   
-|                    |     1400-1700    |     Exploratory Data Analysis and Database Management  |  
-|     17 Sep 2022    |     0900-1300    |     Stastical Analysis                                 |   
-|                    |     1400-1700    |     Communicating Results                              | 
-|     18 Sep 2022    |     0900-1300    |     Advanced concepts                                  |   
-|                    |     1400-1700    |     Feedback / Valedictory                             | 
+|     06 Dec 2022    |     0900-1300    |     Introduction and Concepts                          | 
+|                    |     1400-1700    |     Getting Comfortable with RStudio                   |  
+|     07 Dec 2022    |     0900-1300    |     Fundamentals of Working with Data                  |   
+|                    |     1400-1700    |     Data Visualization and Exploration                 |  
+|     08 Dec 2022    |     0900-1300    |     Introduction to RMarkdown                          |   
+|                    |     1400-1700    |     Advanced Concepts                                  | 
+|     09 Dec 2022    |     0900-1300    |     Introduction to Spatial Epidemiology               |   
+|                    |     1400-1700    |     Point Pattern and Areal Data Analysis              | 
+|     10 Dec 2022    |     0900-1300    |     Geostatistical Methods in R                         |   
+|                    |     1400-1700    |     Advanced Concepts / Feedback / Valedictory          |  
 
 
 ## Contact
