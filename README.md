@@ -6,7 +6,7 @@
   </h1>
 
 ```diff
-@@ text in purple (and bold)@@
+@@ Deadline Extended to 25th Nov 2022 @@
 ```
 
 <h1 align="center">
