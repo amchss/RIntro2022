@@ -3,9 +3,9 @@
     <br>
   06 - 10 December, 2022
    <br>
-   ```diff
-   @@ Deadline Extended @@
-   ```
+  
+  @@ Deadline Extended @@
+
   </h1>
 
 <h1 align="center">
