@@ -3,10 +3,11 @@
     <br>
   06 - 10 December, 2022
    <br>
-  
-  @@ Deadline Extended @@
-
   </h1>
+
+```diff
+@@ text in purple (and bold)@@
+```
 
 <h1 align="center">
   <br>
