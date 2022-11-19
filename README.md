@@ -2,6 +2,10 @@
   Data Analysis and Spatial Epidemiology using R
     <br>
   06 - 10 December, 2022
+   <br>
+   ```diff
+   @@ Deadline Extended @@
+   ```
   </h1>
 
 <h1 align="center">
@@ -47,7 +51,7 @@ Mode: In-person (Offline/Physical)
   <br>
   1. Opening of Registration: 09 Nov, 2022   
   <br>
-  2. Closing of Registration: 20 Nov, 2022  
+  2. Closing of Registration: 25 Nov, 2022  
   <br>
   3. Workshop Dates: 06-10 Dec, 2022
 <br>
