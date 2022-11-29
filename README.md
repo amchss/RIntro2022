@@ -6,7 +6,7 @@
   </h1>
 
 ```diff
-@@ Deadline Extended to 25th Nov 2022 @@
+@@ Registration Open due to last moment cancellations. Limited Seats Available. Hurry! @@
 ```
 
 <h1 align="center">
