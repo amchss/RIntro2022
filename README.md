@@ -25,7 +25,7 @@
 </p>
 
 <h4 align="center">A workshop for Health Professional organized by  <a href="https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/" target="_blank">AMCHSS</a>, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum.</h4>
-<h5 align="center"> An institution of national importance (INI) under the Department of Science & Technology (DST), Govt of India, established under the Act. 52 of the Indian Parliament (1980). </h5>
+<h5 align="center"> An institution of national importance (INI) under the Department of Science & Technology (DST), Govt of India, established under the Act. 52 of the Indian Parliament (1980). </h5> 
 
 ## Registration Fees
 <h1 align="center">
